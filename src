@@ -23,6 +23,7 @@
 #define NPGAMEMON_CHECK_CSAUTH         1016        // CSAuth
 #define NPGAMEMON_CHECK_CSAUTH2        1017        // CSAuth2
 #define NPGAMEMON_GAMEHACK_REPORT      1018        // GameHack report
+#define NPGAMEMON_CHECK_QUERY	       1019	   // Code received
 
 // Error Code  110 - 300
 #define NPGAMEMON_ERROR_EXIST          110         // GameMon Already Exist
