@@ -1,6 +1,7 @@
 #ifndef __NPGAMELIB_H__
 #define __NPGAMELIB_H__
 
+
 /// Definitions
 #ifdef NPGAMEDLL_EXPORTS
 #define NPGAMEDLL_API __declspec(dllexport)
